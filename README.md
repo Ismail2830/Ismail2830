@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ismail Ait Rehail</h1>
-<h3 align="center">I'm Ismail from Morroco, and I am a front-end developer. I really enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.</h3>
+
 
 # 💫 About Me:
-i'm currently learning React Native 
+I'm Ismail from Morroco, and I am a front-end developer. I really enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
 
 ## 🌐 Socials:
