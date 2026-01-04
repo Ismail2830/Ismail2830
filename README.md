@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ismail Ait Rehail</h1>
-[Check out my portfolio](https://new-portfolio-tawny-one.vercel.app/)
+
 
 # 💫 About Me:
-I'm Ismail from Morroco, and I am a front-end developer. I really enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
+I'm Ismail from Morroco, and I am a Full-stack developer. I really enjoy learning languages and frameworks like React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
 
 ## 🌐 Socials:
